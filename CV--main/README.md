@@ -89,7 +89,7 @@ cd "đường_dẫn_đến_thư_mục_CV--main"
 python -m http.server 8000
 ```
 
-4. Mở trình duyệt và truy cập:
+g4. Mở trình duyệt và truy cập:
 
 ```text
 http://localhost:8000
